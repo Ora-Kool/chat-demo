@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12da338-6b84-4ef1-8367-cf9371a2cb8b" name="Default Changelist" comment="" />
+    <list default="true" id="b12da338-6b84-4ef1-8367-cf9371a2cb8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703422173037</updated>
       <workItem from="1703422174111" duration="10834000" />
-      <workItem from="1703512242422" duration="485000" />
+      <workItem from="1703512242422" duration="1657000" />
     </task>
     <servers />
   </component>
@@ -81,5 +84,9 @@
       <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state width="228" height="457" key="HiddenNamespacesPopup/0.25.1680.950@0.25.1680.950" timestamp="1703492680201" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1703512906722">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.25.1680.950@0.25.1680.950" timestamp="1703512906722" />
   </component>
 </project>

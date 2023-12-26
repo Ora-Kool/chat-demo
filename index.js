@@ -25,7 +25,7 @@ if (cluster.isPrimary){
 
 async function  main() {
     const app = express();
-    const host = "192.168.1.199";
+    const host = "localhost";
     const server = createServer(app);
     const io = new Server(server,{
         connectionStateRecovery:{},
